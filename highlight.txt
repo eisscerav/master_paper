@@ -1,0 +1,10 @@
+基于GPU的高性能并行优化算法研究:
+本节首先设计一个GPU扩展加速比模型。然后，基于该扩展模型提出一种并行随
+机数生成算法，包括定义随机序列递推公式、确定数据类型转换方式和构造并行随机数
+生成器三个基本步骤。
+
+Need to download:
+GPGPU Virtualisation with Multi-API Support Using Containers
+Container-based operating system virtualization
+Virtualization vs Containerization to Support PaaS
+
